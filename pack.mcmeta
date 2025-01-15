@@ -1,0 +1,6 @@
+{
+    "pack": {
+      "description": "Make items with '\"ur:use_remaining\":true' don't be consumed after use.",
+      "pack_format": 61
+    }
+  }
