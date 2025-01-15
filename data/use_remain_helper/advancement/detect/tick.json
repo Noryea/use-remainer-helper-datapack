@@ -1,7 +1,7 @@
 {
     "parent": "use_remain_helper:detect/inventory_changed",
     "criteria": {
-        "tick_mainhand": {
+        "tick": {
             "trigger": "minecraft:tick",
             "conditions": {
                 "player": {}
@@ -10,7 +10,7 @@
     },
     "requirements": [
         [
-            "tick_mainhand"
+            "tick"
         ]
     ],
     "rewards": {
